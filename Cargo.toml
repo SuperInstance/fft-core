@@ -1,0 +1,11 @@
+[package]
+name = "fft-core"
+version = "0.1.0"
+edition = "2021"
+description = "Fast Fourier Transform: Cooley-Tukey radix-2, Bluestein, real FFT, inverse"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/fft-core"
+keywords = ["fft", "fourier", "dft", "bluestein", "signal"]
+categories = ["mathematics", "science", "algorithms"]
+
+[dependencies]
